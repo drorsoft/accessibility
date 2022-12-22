@@ -10,16 +10,17 @@ parent: Level A - Examples
 
 Use the tags to the purpose they are intended:
 
-{: .highlight }
+{: .warning }
 A paragraph
 
-> {: .new }
+> {: .wrong }
 > > A paragraph
 > >
 > > Another paragraph
 > >
 > > The last paragraph
 
+{: .right}
 ```html
 <div>Play video</div>
 ```
@@ -28,7 +29,7 @@ A paragraph
 <button>Play video</button>
 ```
 
-These may look the same (if styled the same) but:/
+These may look the same (if styled the same) but: <br>
 Different tags also have built-in keyboard accessibility — users can navigate between buttons using the Tab key and activate their selection using Space, Return or Enter.
 
 ## Good tag semantics
