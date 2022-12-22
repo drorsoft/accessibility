@@ -9,6 +9,8 @@ div.flex-middle {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-right: 4px;
+    padding-left: 4px;
 }
 @media (max-width: 31.24rem) {
     div.flex-middle {
