@@ -1,6 +1,6 @@
 ---
 layout: default
-title: עברית
+title: hebrew
 nav_order: 1
 has_children: true
 permalink: docs/hebrew
