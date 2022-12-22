@@ -1,9 +1,9 @@
 ---
 layout: default
-title: hebrew
+title: עברית
 nav_order: 1
 has_children: true
-permalink: docs/hebrew
+permalink: docs/עברית
 ---
 <div dir="rtl">
 
