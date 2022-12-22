@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Israel
+title: ישראל
 nav_order: 1
-parent: hebrew
+parent: עברית
 ---
-
+<div dir="rtl">
 <h1>
 הגדרות יחודיות לישראל
 </h1>
@@ -60,3 +60,5 @@ Guideline 3.1 Readable: Make text content readable and understandable.
 Language of Parts .3.1.2
 הסעיף, על כותרתו, אינו חל.
   לאחר C Appendix יוסף נספח D( למידע בלבד(, כמפורט להלן:
+
+</div>
