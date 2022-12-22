@@ -14,6 +14,7 @@ from [w3c Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals
 
 This site is an attempt to explain as simple as possible the basics of web accessability for developers. This is done with links, references and examples.
 
+![accessibility logo](/accessibility/assets/images/logo.png)
 
 
 
