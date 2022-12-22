@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Hebrew
-nav_order: 4
+title: עברית
+nav_order: 2
 ---
 <div dir="rtl">
 
