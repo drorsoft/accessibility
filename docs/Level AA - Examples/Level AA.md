@@ -5,3 +5,9 @@ nav_order: 7
 has_children: true
 permalink: docs/LevelAA
 ---
+# Level AA
+Level AA requires a **bit more commitment**. Continuing with the theme of color, you have to ensure that all the text meets color contrast requirements. The requirement differs somewhat based on the size of the text, but it is actually pretty strict.
+
+In my experience, the majority of websites don’t meet this criterion. You need to review the contrast across the whole site, and revise colors where needed, even if they are your brand colors. (Logos are excluded from the rule, however)[^1].
+
+[^1] : https://myaccessible.website/blog/wcaglevels/wcag-levels-a-aa-aaa-difference
