@@ -11,14 +11,11 @@ parent: Level A - Examples
 Use the tags to the purpose they are intended:
 
  
-❌ **Don’t** use div tags for tags that function as buttons
+❌ **Don’t** use div tags for tags that function as buttons:
 ```html
 <div>Play video</div>
-```
- 
-```
-✅ **Do** use buttons tags for tags that function as buttons
-```
+```  
+✅ **Do** use buttons tags for tags that function as buttons:
 ```html
 <button>Play video</button>
 ```
@@ -31,13 +28,14 @@ Different tags also have built-in keyboard accessibility — users can navigate 
 
 Like in the previous example, these two can be styled the same, but can help or confuse screen readers: 
 
-```
+❌ **Don’t** use span or div tags for headers:
+```html
 <span style="font-size: 3em">My heading</span>
 <br /><br />
 This is the first section of my document.
 ```
-
-```
+✅ **Do** use header tags for headers and p tags for paragraphs:
+```html
 <h1>My heading</h1>
 <p>This is the first section of my document.</p>
 ```
