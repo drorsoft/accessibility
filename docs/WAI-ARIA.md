@@ -23,7 +23,7 @@ For example:
 ```
 here the tab `role` should contain the aria-controls property identifying a corresponding tabpanel.
 
-# Properties 
+### Properties 
 
 These define properties of elements, which can be used to give them extra meaning or semantics. As an example, `aria-required="true"` specifies that a form input needs to be filled in order to be valid:
 
@@ -37,7 +37,7 @@ These define properties of elements, which can be used to give them extra meanin
   aria-required="true"></div>
 ```
 
-# States
+### States
 
 Special properties that define the current conditions of elements, such as `aria-disabled="true"`, which specifies to a screen reader that a form input is currently disabled.
 

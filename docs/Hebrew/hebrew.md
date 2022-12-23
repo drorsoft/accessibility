@@ -34,7 +34,7 @@ permalink: docs/עברית
 לעוד מידע על ישראל בקרו ב:
 
 <div dir="ltr">
-<a href="/accessibility/docs/Tutorials">הגדרות יחודיות לישראל</a>
+<a href="/accessibility/docs/Hebrew/hebrew-israel.html">הגדרות יחודיות לישראל</a>
  
 
 
