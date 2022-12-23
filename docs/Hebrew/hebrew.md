@@ -25,7 +25,7 @@ permalink: docs/עברית
 <div dir="ltr">
 <a href="/accessibility/docs/Tutorials" >Tutorials</a>
 <BR>
-<a href="accessibility/docs/Technical%20Docs">Technical docs</a>
+<a href="/accessibility/docs/Technical%20Docs">Technical docs</a>
  
  
 </div>
