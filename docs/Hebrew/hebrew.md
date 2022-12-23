@@ -34,8 +34,8 @@ permalink: docs/עברית
 לעוד מידע על ישראל בקרו ב:
 
 <div dir="ltr">
-
-[הגדרות יחודיות לישראל](/accessibility/docs/Tutorials)
+<a href="/accessibility/docs/Tutorials">הגדרות יחודיות לישראל</a>
+ 
 
 
 </div>
@@ -47,12 +47,17 @@ permalink: docs/עברית
 
 
 <div dir="ltr">
-
-* [Level A Basic](/accessibility/docs/LevelA)
-
-* [Level AA Advance](/accessibility/docs/LevelAA)
-
-* [Level AA Advance](/accessibility/docs/LevelAAA)
+<ul>
+<li>
+<a href="/accessibility/docs/LevelA">Level A Basic</a>
+</li>
+<li>
+<a href="/accessibility/docs/LevelAA">Level AA Advanced</a>
+</li>
+<li>
+<a href="/accessibility/docs/LevelAAA">Level AAA  Very Advanced</a>
+</li>
+ </ul>
 
 
  

@@ -21,5 +21,8 @@ contrast ratio of at least 4.5:1 for normal text and 3:1 for large text.
 ### Orientation  
 Your content shouldn’t restrict its view and operation to a single display orientation. For example, if a user accesses your website on a mobile device, they shouldn’t lose access to information or functionality if they choose to view the website in portrait or landscape mode.
 
+## Error Suggestion
+If an input error is automatically detected and suggestions for correction are known, then the suggestions are provided to the user, unless it would jeopardize the security or purpose of the content.
+
 
 [^1]: https://myaccessible.website/blog/wcaglevels/wcag-levels-a-aa-aaa-difference
