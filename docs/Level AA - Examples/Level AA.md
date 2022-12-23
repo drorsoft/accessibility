@@ -8,6 +8,18 @@ permalink: docs/LevelAA
 # Level AA
 Level AA requires a **bit more commitment**. Continuing with the theme of color, you have to ensure that all the text meets color contrast requirements. The requirement differs somewhat based on the size of the text, but it is actually pretty strict.
 
-In my experience, the majority of websites don’t meet this criterion. You need to review the contrast across the whole site, and revise colors where needed, even if they are your brand colors. (Logos are excluded from the rule, however)[^1].
+In my experience, the majority of websites don’t meet this criterion. You need to review the contrast across the whole site, and revise colors where needed, even if they are your brand colors. (Logos are excluded from the rule, however).[^1]
 
-[^1] : https://myaccessible.website/blog/wcaglevels/wcag-levels-a-aa-aaa-difference
+
+## AA Rules
+
+### Contrast
+contrast ratio of at least 4.5:1 for normal text and 3:1 for large text.
+
+### Orientation  
+Your content shouldn’t restrict its view and operation to a single display orientation. For example, if a user accesses your website on a mobile device, they shouldn’t lose access to information or functionality if they choose to view the website in portrait or landscape mode.
+
+
+
+
+[^1]: https://myaccessible.website/blog/wcaglevels/wcag-levels-a-aa-aaa-difference

@@ -1,0 +1,37 @@
+---
+layout: default
+title: Text alternatives
+parent: Level A - Examples
+nav_order: 4
+---
+
+# Text alternatives 
+
+Use the hTML tags like `header`, `footer` and `nav`:
+
+ 
+❌ **Don’t** use tables or only `div` elements to build the layout:
+```html
+<tr id="heading">
+<!-- page header row -->
+    <td colspan="6">
+        <h1>Header</h1>
+    </td>
+</tr>
+<!-- nav menu row -->
+<tr id="nav">
+    <td width="200">
+        <a href="#" align="center">Home</a>
+    </td>
+</tr>
+```  
+✅ **Do** `header` and `nav` tags:
+```html
+<header>
+  <h1>Header</h1>
+</header>
+<nav>
+  <!-- main navigation in here -->
+</nav>
+```
+ 

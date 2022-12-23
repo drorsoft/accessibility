@@ -2,6 +2,7 @@
 layout: default
 title: HTML Tags
 parent: Level A - Examples
+nav_order: 2
 ---
 
 # HTML Tags
