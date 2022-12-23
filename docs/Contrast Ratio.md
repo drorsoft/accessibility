@@ -6,7 +6,7 @@ nav_order: 9
 
 # Contrast Ratio tool
 
-<div>
+<div class="contrast-ratio-tool">
 <script>
     (function(){
 
