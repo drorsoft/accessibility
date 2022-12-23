@@ -7,31 +7,16 @@ nav_order: 4
 
 # Text alternatives 
 
-Use the hTML tags like `header`, `footer` and `nav`:
+Add alt tag to images:
 
  
-❌ **Don’t** use tables or only `div` elements to build the layout:
+❌ **Don’t** add images without `alt` tag:
 ```html
-<tr id="heading">
-<!-- page header row -->
-    <td colspan="6">
-        <h1>Header</h1>
-    </td>
-</tr>
-<!-- nav menu row -->
-<tr id="nav">
-    <td width="200">
-        <a href="#" align="center">Home</a>
-    </td>
-</tr>
+ <img src="dinosaur.png" />
 ```  
-✅ **Do** `header` and `nav` tags:
+✅ **Do** add images with a descriptive `alt` tag:
 ```html
-<header>
-  <h1>Header</h1>
-</header>
-<nav>
-  <!-- main navigation in here -->
-</nav>
+<img   src="dinosaur.png"
+  alt="A red Tyrannosaurus Rex: A two legged dinosaur standing upright like a human, with small arms, and a large head with lots of sharp teeth." />
 ```
  
