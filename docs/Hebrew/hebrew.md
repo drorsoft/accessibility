@@ -9,20 +9,46 @@ permalink: docs/עברית
 
  
 
-<h2>
+<h1>
 נגישות ברשת
-</h2>
+</h1>
 
-אני מנסה לכתוב במסמך הזה בעברית למרות שזה יכול להיות לא קל
-אם אני רוצה להוסיף לכך גם אנגלית אז אני צריך להגדיר שהיא מימין לשמאל
+ <h2>
+ מטרות האתר
+ </h2>
+המטרה באתר היא להסביר חלק מהכללים, העקרונות והטכניקות של הנגישות ברשת, למפתחים.
+שימו לב, שהאתר הזה אינו מקור סמכות, והמידע בו הוא חלקי בלבד!
+<br>
+למידע מפורט ויסודי בקרו ב:
+
+* [Tutorials](/accessibility/docs/Tutorials) 
+* [Technical docs](accessibility/docs/Technical%20Docs)
+
+ <h2>בישראל </h2>
+
+שימו לב שבישראל החוק מציין את רמה AA כרמה הנדרשת באתרים. 
+
+לעוד מידע על ישראל בקרו ב:
+
+[ הגדרות יחודיות לישראל](/accessibility/docs/Tutorials) 
+
+ <h2>
+ דוגמאות
+ </h2>
+בקישורים הבאים נמצאות דוגמאות (באנגלית) לישום של כל אחד משלושת השלבים.
+
+
+
 
 <div dir="ltr">
-fasdfasdf
-asfdasdfasdf
-asdfasdf
-asdfasdfa
+ * [Level A Basic](/accessibility/docs/LevelA)
+* [Level AA Advance](/accessibility/docs/LevelAA)
+* [Level AA Advance](/accessibility/docs/LevelAAA)
+
+
+ 
 </div>
 
-ואז להמשיך לכתוב בעברית כרגיל
+ 
 
 </div>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ישראל
+title: הגדרות יחודיות לישראל
 nav_order: 1
 parent: עברית
 ---
@@ -33,31 +33,46 @@ to users in ways they can perceive.
 Guideline 1.2 Time-based Media: Provide alternatives for time-based media
 Audio-only and Video-only (Prerecorded)\
 .1.2.1
-בסוף המשפט המילים שבסוגריים "A Level "אינן חלות, ובמקומן יחול:
+
+בסוף המשפט המילים שבסוגריים "A Level "אינן חלות, ובמקומן יחול:  
+
 Level AA
 Captions (Prerecorded) .1.2.2
+
 בסוף המשפט המילים שבסוגריים "A Level "אינן חלות, ובמקומן יחול:
+  
+
 Level AA
-Audio Description or Media Alternative (Prerecorded) .1.2.3
-בסוף המשפט המילים שבסוגריים "A Level "אינן חלות, ובמקומן יחול:
-Level AA
-Captions (Live) .1.2.4
-בסוף המשפט המילים שבסוגריים "AA Level "אינן חלות, ובמקומן יחול:
-Level AAA
-Audio Description (Prerecorded) .1.2.5
-בסוף המשפט המילים שבסוגריים "AA Level "אינן חלות, ובמקומן יחול:
-Level AAA
+Audio Description or Media Alternative (Prerecorded) .1.2.3  
+
+בסוף המשפט המילים שבסוגריים "A Level "אינן חלות, ובמקומן יחול:  
+
+Level AA  Captions (Live) .1.2.4  
+
+בסוף המשפט המילים שבסוגריים "AA Level "אינן חלות, ובמקומן יחול:  
+
+Level AAA  
+Audio Description (Prerecorded) .1.2.5  
+
+בסוף המשפט המילים שבסוגריים "AA Level "אינן חלות, ובמקומן יחול:  
+
+Level AAA  
+
 - Principle 2: Operable - User interface components and navigation must be operable.
 Guideline 2.4 Navigable: Provide ways to help users navigate, find content,
-and determine where they are.
-Section Headings .2.4.10
-בסוף המשפט המילים שבסוגריים "AAA Level "אינן חלות, ובמקומן יחול:
-Level AA
+and determine where they are.  
+
+Section Headings .2.4.10  
+
+בסוף המשפט המילים שבסוגריים "AAA Level "אינן חלות, ובמקומן יחול:  
+
+Level AA  
+
 - Principle 3: Understandable - Information and the operation of user interface
 must be understandable.
 Guideline 3.1 Readable: Make text content readable and understandable.
-Language of Parts .3.1.2
-הסעיף, על כותרתו, אינו חל.
-  לאחר C Appendix יוסף נספח D( למידע בלבד(, כמפורט להלן:
+Language of Parts .3.1.2  
 
+הסעיף, על כותרתו, אינו חל.  
+ 
 </div>
