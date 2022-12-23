@@ -26,7 +26,6 @@ permalink: docs/עברית
 * [Tutorials](/accessibility/docs/Tutorials) 
 * [Technical docs](accessibility/docs/Technical%20Docs)
 </div>
-
  <h2>בישראל </h2>
 
 שימו לב שבישראל החוק מציין את רמה AA כרמה הנדרשת באתרים. 
