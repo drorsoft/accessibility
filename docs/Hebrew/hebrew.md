@@ -23,9 +23,11 @@ permalink: docs/עברית
 
 <br>
 <div dir="ltr">
-
-* [Tutorials](/accessibility/docs/Tutorials) 
-* [Technical docs](accessibility/docs/Technical%20Docs)
+<a href="/accessibility/docs/Tutorials" >Tutorials</a>
+<BR>
+<a href="accessibility/docs/Technical%20Docs">Technical docs</a>
+ 
+ 
 </div>
 <h2>בישראל </h2>
 
