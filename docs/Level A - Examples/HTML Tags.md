@@ -11,12 +11,16 @@ parent: Level A - Examples
 Use the tags to the purpose they are intended:
 
  
-> {: .wrong }
-> > ```html
-> > <div>Play video</div>
-> > ```
+ {: .wrong }
+don't use div tags for tags that function as buttons
+
+```html
+<div>Play video</div>
+```
  
 {: .right}
+use buttons tags for tags that function as buttons
+
 ```html
 <button>Play video</button>
 ```
