@@ -20,6 +20,7 @@ permalink: docs/עברית
 שימו לב, שהאתר הזה אינו מקור סמכות, והמידע בו הוא חלקי בלבד!
 <br>
 למידע מפורט ויסודי בקרו ב:
+
 <div dir="ltr">
 
 * [Tutorials](/accessibility/docs/Tutorials) 
@@ -32,7 +33,10 @@ permalink: docs/עברית
 
 לעוד מידע על ישראל בקרו ב:
 
+<div dir="ltr">
+
 [הגדרות יחודיות לישראל](/accessibility/docs/Tutorials) 
+</div>
 
  <h2>
  דוגמאות
