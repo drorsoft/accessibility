@@ -7,8 +7,8 @@ nav_order: 9
 
 Here are some recommended contrast ratio tools:
 
-* https://contrast-ratio.com/
-* https://webaim.org/resources/contrastchecker/
+* [contrast-ratio.com](https://contrast-ratio.com/)
+* [Webaim](https://webaim.org/resources/contrastchecker/)
 
 
 

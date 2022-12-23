@@ -20,9 +20,11 @@ permalink: docs/עברית
 שימו לב, שהאתר הזה אינו מקור סמכות, והמידע בו הוא חלקי בלבד!
 <br>
 למידע מפורט ויסודי בקרו ב:
+<div dir="ltr">
 
 * [Tutorials](/accessibility/docs/Tutorials) 
 * [Technical docs](accessibility/docs/Technical%20Docs)
+</div>
 
  <h2>בישראל </h2>
 
@@ -30,18 +32,19 @@ permalink: docs/עברית
 
 לעוד מידע על ישראל בקרו ב:
 
-[ הגדרות יחודיות לישראל](/accessibility/docs/Tutorials) 
+[הגדרות יחודיות לישראל](/accessibility/docs/Tutorials) 
 
  <h2>
  דוגמאות
  </h2>
-בקישורים הבאים נמצאות דוגמאות (באנגלית) לישום של כל אחד משלושת השלבים.
+בקישורים הבאים נמצאות דוגמאות (באנגלית) לישום של כל אחד משלושת השלבים:
 
 
 
 
 <div dir="ltr">
- * [Level A Basic](/accessibility/docs/LevelA)
+
+* [Level A Basic](/accessibility/docs/LevelA)
 * [Level AA Advance](/accessibility/docs/LevelAA)
 * [Level AA Advance](/accessibility/docs/LevelAAA)
 
