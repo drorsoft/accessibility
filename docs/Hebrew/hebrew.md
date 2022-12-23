@@ -21,12 +21,13 @@ permalink: docs/עברית
 <br>
 למידע מפורט ויסודי בקרו ב:
 
+<br>
 <div dir="ltr">
 
 * [Tutorials](/accessibility/docs/Tutorials) 
 * [Technical docs](accessibility/docs/Technical%20Docs)
 </div>
- <h2>בישראל </h2>
+<h2>בישראל </h2>
 
 שימו לב שבישראל החוק מציין את רמה AA כרמה הנדרשת באתרים. 
 
@@ -34,7 +35,9 @@ permalink: docs/עברית
 
 <div dir="ltr">
 
-[הגדרות יחודיות לישראל](/accessibility/docs/Tutorials) 
+[הגדרות יחודיות לישראל](/accessibility/docs/Tutorials)
+
+
 </div>
 
  <h2>
@@ -43,12 +46,12 @@ permalink: docs/עברית
 בקישורים הבאים נמצאות דוגמאות (באנגלית) לישום של כל אחד משלושת השלבים:
 
 
-
-
 <div dir="ltr">
 
 * [Level A Basic](/accessibility/docs/LevelA)
+
 * [Level AA Advance](/accessibility/docs/LevelAA)
+
 * [Level AA Advance](/accessibility/docs/LevelAAA)
 
 
