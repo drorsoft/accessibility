@@ -11,20 +11,17 @@ parent: Level A - Examples
 Use the tags to the purpose they are intended:
 
  
- {: .wrong }
-don't use div tags for tags that function as buttons
-
+❌ **Don’t** use div tags for tags that function as buttons
 ```html
 <div>Play video</div>
 ```
  
-{: .right}
-use buttons tags for tags that function as buttons
-
+```
+✅ **Do** use buttons tags for tags that function as buttons
+```
 ```html
 <button>Play video</button>
 ```
-
 
 
 These may look the same (if styled the same) but: <br>
