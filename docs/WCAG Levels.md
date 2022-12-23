@@ -15,12 +15,12 @@ On 11 December 2008, the WAI released the WCAG 2.0 as a Recommendation. WCAG 2.0
 
 WCAG is now on version 2.0 and there is a draft for version 3.0. The standard defines three levels of conformance:
 
-* Level A - is the minimum level.
-* Level AA - includes all Level A and AA requirements. Many organizations strive to meet Level AA.
-* Level AAA -  includes all Level A, AA, and AAA requirements.
+* [Level A](accessibility/docs/LevelA) - is the minimum level.
+* [Level AA](accessibility/docs/LevelAA) - includes all Level A and AA requirements. Many organizations strive to meet Level AA.
+* [Level AAA](accessibility/docs/LevelAAA) -  includes all Level A, AA, and AAA requirements.
 
 {: .important }
-In many countries
+In many countries the standard that is set by law is the AA level.
 
 
 ---
