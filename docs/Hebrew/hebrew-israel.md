@@ -29,25 +29,25 @@ parent: עברית
  השינויים הטכניים בתקן הישראלי
  </h2>
 
-בעיקרם הם מחמירים עם חלק מהתקנים של AA ורוצים שבארץ הסטנדרט יהיה AA עם התוספות הבאות שלקוחות מ AAA.
+בעיקרם הם מחמירים עם חלק מהתקנים של AA ורוצים שבארץ הסטנדרט יהיה AA עם התוספות הבאות שלקוחות מ AAA:
 
+<br>
 
-## Principle 1
+<h3> Principle 1 </h3>
  Perceivable - Information and user interface components must be presentable
 to users in ways they can perceive.
 Guideline 1.2 Time-based Media: Provide alternatives for time-based media
 Audio-only and Video-only (Prerecorded)\
 .1.2.1
-<br><br>
+<br>
 
 בסוף המשפט המילים שבסוגריים "A Level "אינן חלות, ובמקומן יחול:  
-<br><br>
+<br>
 Level AA
 Captions (Prerecorded) .1.2.2
-<br><br>
+<br>
 בסוף המשפט המילים שבסוגריים "A Level "אינן חלות, ובמקומן יחול:
-  
-<br><br>
+<br> 
 Level AA
 Audio Description or Media Alternative (Prerecorded) .1.2.3  
 <br><br>
@@ -64,7 +64,7 @@ Audio Description (Prerecorded) .1.2.5
 <br><br>
 Level AAA  
 <br><br>
-# Principle 2
+<h3> Principle 2 </h3>
 <br><br>
  Operable - User interface components and navigation must be operable.
 Guideline 2.4 Navigable: Provide ways to help users navigate, find content,
@@ -76,7 +76,7 @@ Section Headings .2.4.10
 <br><br>
 Level AA  
 <br><br>
-# Principle 3 
+<h3> Principle 3 </h3>
 <br><br>
  Understandable - Information and the operation of user interface must be understandable.
  <br><br>
