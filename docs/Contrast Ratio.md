@@ -3,14 +3,7 @@ layout: default
 title: Contrast Ratio 
 nav_order: 9
 ---
-
-# Contrast Ratio tool
-
-<div class="contrast-ratio-tool">
-<script>
-   
-</script>
-
+<div class="contrast-ratio-tool"> 
 <h1><a href="#"><div><span>Contrast</span></div> <div><strong>ratio</strong></div></a></h1>
 
 <label class="background">
@@ -41,17 +34,16 @@ nav_order: 9
 	<output for="background foreground" id="wcag"></output>
 </section>
 
-<section class="color-display" id="backgroundDisplay">
-	<h1>How to use</h1>
-	<p>As you type, the contrast ratio indicated will update. Hover over the circle to get more detailed information. When semi-transparent colors are involved as backgrounds, the contrast ratio will have an error margin, to account for the different colors they may be over.</p>
-	<p style="font-family: Garamond, 'Palatino Linotype', Georgia, serif;">This sample text attempts to visually demonstrate how readable this color combination is, for normal, <span style="font-style: italic;">italic</span>, <span style="font-weight: bold;">bold</span>, or <span style="font-style: italic; font-weight: bold;">bold italic</span> text of various sizes and font styles.</p>
-	<p style="font-size: 11pt;"><strong>Hint:</strong> Press the up and down keyboard arrows while over a number inside a functional color notation. Watch it increment/decrement. Try with the Shift or Alt key too!</p>
-	<footer>
-		By <a href="http://lea.verou.me" rel="noopener" target="_blank">Lea Verou</a>
-		&bull; <a href="https://www.w3.org/TR/WCAG/#contrast-minimum" rel="noopener" target="_blank">WCAG 2.1 on contrast ratio</a>
+<div class="color-display" id="backgroundDisplay">
+ 
+	 
+	 
+By <a href="http://lea.verou.me" rel="noopener" target="_blank">Lea Verou</a>
+		 
+<a href="https://www.w3.org/TR/WCAG/#contrast-minimum" rel="noopener" target="_blank">WCAG 2.1 on contrast ratio</a>
 
-	</footer>
-</section>
+	 
+</div>
 <section class="color-display" id="foregroundDisplay">
 	<button id="swap">↔ Swap colors</button>
 	<script async src="https://cdn.carbonads.com/carbon.js?zoneid=1673&serve=C6AILKT&placement=contrastratiocom" id="_carbonads_js"></script>
