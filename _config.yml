@@ -20,6 +20,9 @@ callouts:
   right:
     title: do
     color: green
+  important:
+    title: Important
+    color: purple
   
   
   

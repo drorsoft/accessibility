@@ -19,6 +19,9 @@ WCAG is now on version 2.0 and there is a draft for version 3.0. The standard de
 * Level AA - includes all Level A and AA requirements. Many organizations strive to meet Level AA.
 * Level AAA -  includes all Level A, AA, and AAA requirements.
 
+{: .important }
+In many countries
+
 
 ---
 
