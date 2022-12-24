@@ -26,7 +26,7 @@ Use the hTML tags like `header`, `footer` and `nav`:
     </td>
 </tr>
 ```  
-✅ **Do** `header` and `nav` tags:
+✅ **Do** use tags with navigational meaning like `header` and `nav`:
 ```html
 <header>
   <h1>Header</h1>

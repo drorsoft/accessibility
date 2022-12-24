@@ -9,10 +9,10 @@ nav_order: 1
 
 ## Goals
 
-This site is an attempt to explain as simple as possible the basics of web accessability for developers. This is done with links, references and examples.
+This site is an attempt to explain simply as possible the basics of web accessability for developers. This is done with links, references and examples.
 
 {: .warning}
-This site is contains abstracted information and don't relay only on it. See the [Tutorials](/accessibility/docs/Tutorials) and [Technical docs](/accessibility/docs/Technical%20Docs) for more information. 
+This site contains only basic information and examples. We also cannot guarantee the validity of the information found here. See the links in the [Tutorials](/accessibility/docs/Tutorials) and [Technical docs](/accessibility/docs/Technical%20Docs) sections for more information. 
 
 ## How to use this site
 For a quick reference guid with examples view the examples taken from different tutorials (mainly MDN):  
