@@ -5,7 +5,6 @@ parent: Level AA - Examples
 nav_order: 2
 ---
 
-
 # Media
 
 ## Captions
