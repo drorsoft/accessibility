@@ -18,13 +18,13 @@ This site contains only basic information and examples. We also cannot guarantee
 For a quick reference guid with examples view the examples taken from different tutorials (mainly MDN):  
 
 * [Level A Basic](/docs/LevelA)
-* [Level AA Advanced](/accessibility/docs/LevelAA)
-* [Level AAA Very Advanced](/accessibility/docs/LevelAAA)
+* [Level AA Advanced](/docs/LevelAA)
+* [Level AAA Very Advanced](/docs/LevelAAA)
 
 For a more in depth leaning use on of the [tutorials](/accessibility/docs/Tutorials).
 
 
-![accessibility logo](/accessibility/assets/images/logo.png)
+![accessibility logo](/assets/images/logo.png)
 
 
 [^1]: from [w3c Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
