@@ -17,7 +17,7 @@ This site contains only basic information and examples. We also cannot guarantee
 ## How to use this site
 For a quick reference guid with examples view the examples taken from different tutorials (mainly MDN):  
 
-* [Level A Basic](/accessibility/docs/LevelA)
+* [Level A Basic](/docs/LevelA)
 * [Level AA Advanced](/accessibility/docs/LevelAA)
 * [Level AAA Very Advanced](/accessibility/docs/LevelAAA)
 
