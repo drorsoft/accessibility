@@ -23,9 +23,9 @@ permalink: docs/עברית
 
 <br>
 <div dir="ltr">
-<a href="/accessibility/docs/Tutorials" >Tutorials</a>
+<a href="/docs/Tutorials" >Tutorials</a>
 <BR>
-<a href="/accessibility/docs/Technical%20Docs">Technical docs</a>
+<a href="/docs/Technical%20Docs">Technical docs</a>
  
  
 </div>
@@ -36,7 +36,7 @@ permalink: docs/עברית
 לעוד מידע על ישראל בקרו ב:
 
 <div dir="ltr">
-<a href="/accessibility/docs/Hebrew/hebrew-israel.html">הגדרות יחודיות לישראל</a>
+<a href="/docs/Hebrew/hebrew-israel.html">הגדרות יחודיות לישראל</a>
  
 
 
@@ -51,13 +51,13 @@ permalink: docs/עברית
 <div dir="ltr">
 <ul>
 <li>
-<a href="/accessibility/docs/LevelA">Level A Basic</a>
+<a href="/docs/LevelA">Level A Basic</a>
 </li>
 <li>
-<a href="/accessibility/docs/LevelAA">Level AA Advanced</a>
+<a href="/docs/LevelAA">Level AA Advanced</a>
 </li>
 <li>
-<a href="/accessibility/docs/LevelAAA">Level AAA  Very Advanced</a>
+<a href="/docs/LevelAAA">Level AAA  Very Advanced</a>
 </li>
  </ul>
 
