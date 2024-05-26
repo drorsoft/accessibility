@@ -20,3 +20,9 @@ div.flex-middle {
         }
     }
 }
+@media (min-width: 66.5rem) {
+    .custom-footer-dror-soft {
+        //width: calc((100% - 1064px) / 2 + 264px);
+        //min-width: 264px;
+    }
+}
